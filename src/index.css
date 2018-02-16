@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.cell {
+  display: inline-block;
+  width: 100%;
+  color: blue;
+}
+  #parent .cell {
+    width: 8.34%;
+    padding: 45px;
+  }
+
+.odd {
+  background-color: white;
+}
+
+.even {
+  background-color: black;
+}
